@@ -37,12 +37,12 @@
    id="namedview7302"
    showgrid="false"
    inkscape:zoom="0.97464288"
-   inkscape:cx="340.63759"
-   inkscape:cy="338.58555"
+   inkscape:cx="692.56136"
+   inkscape:cy="268.81641"
    inkscape:window-x="1912"
    inkscape:window-y="-8"
    inkscape:window-maximized="1"
-   inkscape:current-layer="g7157"
+   inkscape:current-layer="g7288"
    inkscape:showpageshadow="2"
    inkscape:pagecheckerboard="0"
    inkscape:deskcolor="#d1d1d1"
@@ -103,7 +103,28 @@
        
       
        
-      </defs>
+      
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+       </defs>
  <defs
    id="defs6789">
   <font
@@ -419,7 +440,7 @@
    class="BackgroundObjects" />
   </g>
  </g><g
-   transform="translate(0,-66.483658)"
+   transform="translate(8862.4267,14.956384)"
    style="opacity:0.98"
    id="g6917">
         <rect
@@ -601,7 +622,7 @@
    d="m 4932,19928 h 6280"
    id="path6915" />
        </g><g
-   transform="translate(0,-66.483658)"
+   transform="translate(8862.4267,14.956384)"
    style="opacity:0.98"
    id="g6997">
         <rect
@@ -783,7 +804,7 @@
    d="M 1062,14947 H 7342"
    id="path6995" />
        </g><g
-   transform="translate(0,-66.483658)"
+   transform="translate(8862.4267,14.956384)"
    style="opacity:0.98"
    id="g7077">
         <rect
@@ -964,189 +985,185 @@
    stroke-linejoin="round"
    d="m 9943,14905 h 6280"
    id="path7075" />
-       </g><g
-   transform="translate(-8832,-66.483658)"
-   style="opacity:0.98"
-   id="g7157">
-        <rect
+       </g><rect
    class="BoundingBox"
    stroke="none"
    fill="none"
-   x="9902"
-   y="7676"
+   x="9932.4277"
+   y="7690.9565"
    width="6265"
    height="2210"
-   id="rect7081" />
-        <path
+   id="rect7081"
+   style="opacity:0.98" /><path
    fill="#e6e6e6"
    stroke="none"
-   d="m 9904,7678 h 2310 v 735 H 9904 Z"
-   id="path7083" />
-        <text
+   d="m 9934.4267,7692.9564 h 2310.0013 v 735 H 9934.4267 Z"
+   id="path7083"
+   style="opacity:0.98" /><text
    class="TextShape"
-   id="text7091"><tspan
+   id="text7091"
+   style="opacity:0.98"
+   x="30.426586"
+   y="14.956384"><tspan
      class="TextParagraph"
      font-family="'Times New Roman', serif"
      font-size="423px"
      font-weight="400"
      id="tspan7089"><tspan
        class="TextPosition"
-       x="10412"
-       y="8185"
+       x="10442.428"
+       y="8199.9561"
        id="tspan7087"><tspan
          fill="#000000"
          stroke="none"
-         id="tspan7085">commit</tspan></tspan></tspan></text>
-        <path
+         id="tspan7085">commit</tspan></tspan></tspan></text><path
    fill="#e6e6e6"
    stroke="none"
-   d="m 12214,7678 h 3950 v 735 h -3950 z"
-   id="path7093" />
-        <text
+   d="m 12244.428,7692.9564 h 3950 v 735 h -3950 z"
+   id="path7093"
+   style="opacity:0.98" /><text
    class="TextShape"
    id="text7101"
-   style="white-space:pre;inline-size:1915.02"
-   transform="translate(13366.752,7813.9968)"
+   style="white-space:pre;inline-size:1915.02;display:inline;opacity:0.98"
+   transform="translate(13397.18,7828.9532)"
    xml:space="preserve"><tspan
      x="0"
      y="375.46362"
-     id="tspan4664"><tspan
+     id="tspan4407"><tspan
        style="font-size:423px;font-family:'Times New Roman', serif"
-       id="tspan4662">a6f8f13</tspan></tspan></text>
-        <path
+       id="tspan4405">a6f8f13</tspan></tspan></text><path
    fill="#e6e6e6"
    stroke="none"
-   d="m 9904,8413 h 2310 v 735 H 9904 Z"
-   id="path7103" />
-        <text
+   d="m 9934.4267,8427.9564 h 2310.0013 v 735 H 9934.4267 Z"
+   id="path7103"
+   style="opacity:0.98" /><text
    class="TextShape"
-   id="text7111"><tspan
+   id="text7111"
+   style="opacity:0.98"
+   x="30.426586"
+   y="14.956384"><tspan
      class="TextParagraph"
      font-family="'Times New Roman', serif"
      font-size="423px"
      font-weight="400"
      id="tspan7109"><tspan
        class="TextPosition"
-       x="10708"
-       y="8920"
+       x="10738.428"
+       y="8934.9561"
        id="tspan7107"><tspan
          fill="#000000"
          stroke="none"
-         id="tspan7105">date</tspan></tspan></tspan></text>
-        <path
+         id="tspan7105">date</tspan></tspan></tspan></text><path
    fill="#e6e6e6"
    stroke="none"
-   d="m 12214,8413 h 3950 v 735 h -3950 z"
-   id="path7113" />
-        <text
+   d="m 12244.428,8427.9564 h 3950 v 735 h -3950 z"
+   id="path7113"
+   style="opacity:0.98" /><text
    class="TextShape"
-   id="text7121"><tspan
+   id="text7121"
+   style="opacity:0.98"
+   x="30.426586"
+   y="14.956384"><tspan
      class="TextParagraph"
      font-family="'Times New Roman', serif"
      font-size="423px"
      font-weight="400"
      id="tspan7119"><tspan
        class="TextPosition"
-       x="12667"
-       y="8920"
+       x="12697.428"
+       y="8934.9561"
        id="tspan7117"><tspan
          fill="#000000"
          stroke="none"
-         id="tspan7115">20:01 20-12-2022</tspan></tspan></tspan></text>
-        <path
+         id="tspan7115">20:01 20-12-2022</tspan></tspan></tspan></text><path
    fill="#e6e6e6"
    stroke="none"
-   d="m 9904,9148 h 2310 v 735 H 9904 Z"
-   id="path7123" />
-        <text
+   d="m 9934.4267,9162.9564 h 2310.0013 v 735 H 9934.4267 Z"
+   id="path7123"
+   style="opacity:0.98" /><text
    class="TextShape"
-   id="text7131"><tspan
+   id="text7131"
+   style="opacity:0.98"
+   x="30.426586"
+   y="14.956384"><tspan
      class="TextParagraph"
      font-family="'Times New Roman', serif"
      font-size="423px"
      font-weight="400"
      id="tspan7129"><tspan
        class="TextPosition"
-       x="10344"
-       y="9655"
+       x="10374.428"
+       y="9669.9561"
        id="tspan7127"><tspan
          fill="#000000"
          stroke="none"
-         id="tspan7125">message</tspan></tspan></tspan></text>
-        <path
+         id="tspan7125">message</tspan></tspan></tspan></text><path
    fill="#e6e6e6"
    stroke="none"
-   d="m 12214,9148 h 3950 v 735 h -3950 z"
-   id="path7133" />
-        <text
+   d="m 12244.428,9162.9564 h 3950 v 735 h -3950 z"
+   id="path7133"
+   style="opacity:0.98" /><text
    class="TextShape"
    id="text7141"
-   y="9659.46"
-   x="13263.997"><tspan
+   y="9674.416"
+   x="13294.425"
+   style="opacity:0.98"><tspan
      class="TextParagraph"
      font-family="'Times New Roman', serif"
      font-size="423px"
      font-weight="400"
      id="tspan7139">Better idea<tspan
    class="TextPosition"
-   x="26798.998"
-   y="19314.461"
+   x="26829.422"
+   y="19329.418"
    id="tspan7137"><tspan
      fill="#000000"
      stroke="none"
-     id="tspan7135" /></tspan></tspan></text>
-        <path
+     id="tspan7135" /></tspan></tspan></text><path
    fill="none"
    stroke="#ffffff"
    stroke-width="20"
    stroke-linejoin="round"
-   d="m 9894,7678 h 6280"
-   id="path7143" />
-        <path
+   d="M 9924.4267,7692.9564 H 16204.428"
+   id="path7143"
+   style="opacity:0.98" /><path
    fill="none"
    stroke="#ffffff"
    stroke-width="20"
    stroke-linejoin="round"
-   d="M 9904,7668 V 9893"
-   id="path7145" />
-        <path
+   d="m 12244.428,7682.9564 v 2225"
+   id="path7147"
+   style="opacity:0.98" /><path
    fill="none"
    stroke="#ffffff"
    stroke-width="20"
    stroke-linejoin="round"
-   d="M 12214,7668 V 9893"
-   id="path7147" />
-        <path
+   d="m 16194.428,7682.9564 v 2225"
+   id="path7149"
+   style="opacity:0.98" /><path
    fill="none"
    stroke="#ffffff"
    stroke-width="20"
    stroke-linejoin="round"
-   d="M 16164,7668 V 9893"
-   id="path7149" />
-        <path
+   d="M 9924.4267,8427.9564 H 16204.428"
+   id="path7151"
+   style="opacity:0.98" /><path
    fill="none"
    stroke="#ffffff"
    stroke-width="20"
    stroke-linejoin="round"
-   d="m 9894,8413 h 6280"
-   id="path7151" />
-        <path
+   d="M 9924.4267,9162.9564 H 16204.428"
+   id="path7153"
+   style="opacity:0.98" /><path
    fill="none"
    stroke="#ffffff"
    stroke-width="20"
    stroke-linejoin="round"
-   d="m 9894,9148 h 6280"
-   id="path7153" />
-        <path
-   fill="none"
-   stroke="#ffffff"
-   stroke-width="20"
-   stroke-linejoin="round"
-   d="m 9894,9883 h 6280"
-   id="path7155" />
-       <g
-   transform="translate(8584,67)"
-   style="opacity:0.98"
+   d="M 9924.4267,9897.9564 H 16204.428"
+   id="path7155"
+   style="opacity:0.98" /><g
+   transform="translate(8614.4267,81.956384)"
+   style="opacity:0.9604"
    id="g7157-2">
         <rect
    class="BoundingBox"
@@ -1327,8 +1344,8 @@
    d="m 9894,9883 h 6280"
    id="path7155-1" />
        </g><g
-   transform="translate(8584,67)"
-   style="opacity:0.98"
+   transform="translate(8614.4267,81.956384)"
+   style="opacity:0.9604"
    id="id5-3">
         <rect
    class="BoundingBox"
@@ -1351,8 +1368,8 @@
    stroke="none"
    d="m 12511,12633 230,-688 h -459 z"
    id="path7183-2" />
-       </g></g><g
-   transform="translate(0,-66.483658)"
+       </g><g
+   transform="translate(8862.4267,14.956384)"
    style="opacity:0.98"
    id="id3">
         <rect
@@ -1377,7 +1394,7 @@
    d="m 7431,17586 -432,-583 -264,376 z"
    id="path7165" />
        </g><g
-   transform="translate(0,-66.483658)"
+   transform="translate(8862.4267,14.956384)"
    style="opacity:0.98"
    id="id4">
         <rect
@@ -1402,7 +1419,7 @@
    d="m 7431,17586 715,-117 -213,-405 z"
    id="path7174" />
        </g><g
-   transform="translate(-8309.5,-66.483658)"
+   transform="translate(552.92661,14.956384)"
    style="opacity:0.98"
    id="id5">
         <rect
@@ -1427,10 +1444,42 @@
    d="m 12511,12633 230,-688 h -459 z"
    id="path7183" />
        </g><g
-   transform="translate(0,-4299.8172)"
+   transform="translate(705.81407,-13861)"
    style="opacity:0.98"
    id="g7288">
-        <rect
+        <text
+   class="TextShape"
+   id="text7270-0"
+   y="1235.5131"
+   style="opacity:0.98"
+   x="295.755"><tspan
+     class="TextParagraph"
+     font-family="'Times New Roman', serif"
+     font-size="635px"
+     font-weight="400"
+     id="tspan7268-9"><tspan
+       class="TextPosition"
+       x="25617.754"
+       y="19791.512"
+       id="tspan7266-6"><tspan
+         fill="#158466"
+         stroke="none"
+         id="tspan7264-4">5a95c45</tspan></tspan></tspan></text><path
+   fill="#e6e6e6"
+   stroke="none"
+   d="m 18181,18855.572 h 2992 v 1498.535 h -2992 z"
+   id="path1551"
+   style="stroke-width:24.4229" /><path
+   fill="#e6e6e6"
+   stroke="none"
+   d="m 21173,18855.572 h 3111 v 1498.535 h -3111 z"
+   id="path1561"
+   style="stroke-width:24.4229" /><path
+   fill="#e6e6e6"
+   stroke="none"
+   d="m 24284,18855.572 h 4230 v 1498.535 h -4230 z"
+   id="path1571"
+   style="stroke-width:24.4229" /><rect
    class="BoundingBox"
    stroke="none"
    fill="none"
@@ -1502,16 +1551,19 @@
         <path
    fill="#e6e6e6"
    stroke="none"
-   d="m 18181,15860 h 2992 v 1999 h -2992 z"
-   id="path7220" />
+   d="m 18181,15860 h 2992 v 1497.037 h -2992 z"
+   id="path7220"
+   style="stroke-width:24.4229" />
         <path
    fill="#e6e6e6"
    stroke="none"
-   d="m 21173,15860 h 3111 v 1999 h -3111 z"
-   id="path7222" />
+   d="m 21173,15860 h 3111 v 1497.037 h -3111 z"
+   id="path7222"
+   style="stroke-width:24.4229" />
         <text
    class="TextShape"
-   id="text7230"><tspan
+   id="text7230"
+   y="235.84833"><tspan
      class="TextParagraph"
      font-family="'Times New Roman', serif"
      font-size="635px"
@@ -1519,7 +1571,7 @@
      id="tspan7228"><tspan
        class="TextPosition"
        x="21880"
-       y="16557"
+       y="16792.848"
        id="tspan7226"><tspan
          fill="#158466"
          stroke="none"
@@ -1527,11 +1579,13 @@
         <path
    fill="#e6e6e6"
    stroke="none"
-   d="m 24284,15860 h 4230 v 1999 h -4230 z"
-   id="path7232" />
+   d="m 24284,15860 h 4230 v 1497.037 h -4230 z"
+   id="path7232"
+   style="stroke-width:24.4229" />
         <text
    class="TextShape"
-   id="text7240"><tspan
+   id="text7240"
+   y="267.62933"><tspan
      class="TextParagraph"
      font-family="'Times New Roman', serif"
      font-size="635px"
@@ -1539,7 +1593,7 @@
      id="tspan7238"><tspan
        class="TextPosition"
        x="25288"
-       y="16557"
+       y="16824.629"
        id="tspan7236"><tspan
          fill="#158466"
          stroke="none"
@@ -1547,31 +1601,20 @@
         <path
    fill="#e6e6e6"
    stroke="none"
-   d="m 18181,17859 h 2992 v 2001 h -2992 z"
-   id="path7242" />
-        <text
-   class="TextShape"
-   id="text7250"><tspan
-     class="TextParagraph"
-     font-family="'Times New Roman', serif"
-     font-size="635px"
-     font-weight="700"
-     id="tspan7248"><tspan
-       class="TextPosition"
-       x="19518"
-       y="18556"
-       id="tspan7246"><tspan
-         fill="#158466"
-         stroke="none"
-         id="tspan7244">*</tspan></tspan></tspan></text>
+   d="m 18181,17357.037 h 2992 v 1498.535 h -2992 z"
+   id="path7242"
+   style="stroke-width:24.4229" />
+        
         <path
    fill="#e6e6e6"
    stroke="none"
-   d="m 21173,17859 h 3111 v 2001 h -3111 z"
-   id="path7252" />
+   d="m 21173,17357.037 h 3111 v 1498.535 h -3111 z"
+   id="path7252"
+   style="stroke-width:24.4229" />
         <text
    class="TextShape"
-   id="text7260"><tspan
+   id="text7260"
+   y="-233.58466"><tspan
      class="TextParagraph"
      font-family="'Times New Roman', serif"
      font-size="635px"
@@ -1579,7 +1622,7 @@
      id="tspan7258"><tspan
        class="TextPosition"
        x="22197"
-       y="18556"
+       y="18322.416"
        id="tspan7256"><tspan
          fill="#158466"
          stroke="none"
@@ -1587,23 +1630,29 @@
         <path
    fill="#e6e6e6"
    stroke="none"
-   d="m 24284,17859 h 4230 v 2001 h -4230 z"
-   id="path7262" />
+   d="m 24284,17357.037 h 4230 v 1498.535 h -4230 z"
+   id="path7262"
+   style="stroke-width:24.4229" />
         <text
    class="TextShape"
-   id="text7270"><tspan
+   id="text7270"
+   y="-239.47577"
+   style="stroke-width:28.20000003;stroke-dasharray:none"><tspan
      class="TextParagraph"
      font-family="'Times New Roman', serif"
      font-size="635px"
      font-weight="400"
-     id="tspan7268"><tspan
+     id="tspan7268"
+     style="stroke-width:28.20000003;stroke-dasharray:none"><tspan
        class="TextPosition"
        x="25322"
-       y="18556"
-       id="tspan7266"><tspan
+       y="18316.523"
+       id="tspan7266"
+       style="stroke-width:28.20000003;stroke-dasharray:none"><tspan
          fill="#158466"
          stroke="none"
-         id="tspan7264">5a95c45</tspan></tspan></tspan></text>
+         id="tspan7264"
+         style="stroke-width:28.20000003;stroke-dasharray:none">5a95c45</tspan></tspan></tspan></text>
         <path
    fill="none"
    stroke="#ffffff"
@@ -1621,16 +1670,16 @@
         <path
    fill="none"
    stroke="#ffffff"
-   stroke-width="20"
+   stroke-width="20.7887"
    stroke-linejoin="round"
-   d="m 21173,13851 v 6019"
+   d="m 21173,13851 v 6503.107"
    id="path7276" />
         <path
    fill="none"
    stroke="#ffffff"
-   stroke-width="20"
+   stroke-width="20.7887"
    stroke-linejoin="round"
-   d="m 24284,13851 v 6019"
+   d="m 24284,13851 v 6503.107"
    id="path7278" />
         <path
    fill="none"
@@ -1651,14 +1700,284 @@
    stroke="#ffffff"
    stroke-width="20"
    stroke-linejoin="round"
-   d="M 18171,17859 H 28524"
+   d="M 18181,17367.037 H 28534"
    id="path7284" />
         <path
    fill="none"
    stroke="#ffffff"
    stroke-width="20"
    stroke-linejoin="round"
-   d="M 18171,19860 H 28524"
+   d="M 18171,20364.107 H 28524"
    id="path7286" />
-       </g>
-</svg>
+       <text
+   class="TextShape"
+   id="text1559"
+   y="1358.8981"><tspan
+     class="TextParagraph"
+     font-family="'Times New Roman', serif"
+     font-size="635px"
+     font-weight="700"
+     id="tspan1557"><tspan
+       class="TextPosition"
+       x="19518"
+       y="19914.898"
+       id="tspan1555"><tspan
+         fill="#158466"
+         stroke="none"
+         id="tspan1553">*</tspan></tspan></tspan></text><text
+   class="TextShape"
+   id="text1569"
+   y="19424.076"
+   x="21686.082"
+   style="fill:#178669;fill-opacity:0.980392"><tspan
+     sodipodi:role="line"
+     id="tspan3953"
+     x="21686.082"
+     y="19424.076"><tspan
+       class="TextParagraph"
+       font-family="'Times New Roman', serif"
+       font-size="635px"
+       font-weight="400"
+       id="tspan1567"
+       style="fill:#178669;fill-opacity:0.980392">Another</tspan></tspan><tspan
+     sodipodi:role="line"
+     id="tspan3955"
+     x="21686.082"
+     y="20217.826"><tspan
+       class="TextParagraph"
+       font-family="'Times New Roman', serif"
+       font-size="635px"
+       font-weight="400"
+       style="fill:#178669;fill-opacity:0.980392"
+       id="tspan3957"> idea</tspan></tspan></text><text
+   class="TextShape"
+   id="text1579"
+   y="19815.059"
+   x="25444.641"
+   style="font-style:normal;font-variant:normal;font-weight:400;font-stretch:normal;font-size:635px;line-height:normal;font-family:'Times New Roman', serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;white-space:normal;opacity:1;vector-effect:none;fill:#148466;fill-opacity:0.98039216;stroke-width:28.222;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"><tspan
+     sodipodi:role="line"
+     id="tspan1593"
+     x="25444.641"
+     y="19815.059"><tspan
+       class="TextParagraph"
+       font-family="'Times New Roman', serif"
+       font-size="635px"
+       font-weight="400"
+       id="tspan1577"
+       style="font-style:normal;font-variant:normal;font-weight:400;font-stretch:normal;font-size:635px;line-height:normal;font-family:'Times New Roman', serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;white-space:normal;vector-effect:none;fill:#148466;fill-opacity:0.98039216;stroke-width:28.222;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1">389654<tspan
+   class="TextPosition"
+   x="50766.641"
+   y="38371.059"
+   id="tspan1575"
+   style="font-style:normal;font-variant:normal;font-weight:400;font-stretch:normal;font-size:635px;line-height:normal;font-family:'Times New Roman', serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;white-space:normal;vector-effect:none;fill:#148466;fill-opacity:0.98039216;stroke-width:28.222;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"><tspan
+     fill="#158466"
+     stroke="none"
+     id="tspan1573"
+     style="font-style:normal;font-variant:normal;font-weight:400;font-stretch:normal;font-size:635px;line-height:normal;font-family:'Times New Roman', serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;white-space:normal;vector-effect:none;fill:#148466;fill-opacity:0.98039216;stroke-width:28.222;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1" /></tspan></tspan></tspan><tspan
+     sodipodi:role="line"
+     id="tspan1595"
+     x="25444.641"
+     y="20608.809" /></text><path
+   fill="none"
+   stroke="#ffffff"
+   stroke-width="20"
+   stroke-linejoin="round"
+   d="M 18181,18865.572 H 28534"
+   id="path1581" /></g>
+<rect
+   class="BoundingBox"
+   stroke="none"
+   fill="none"
+   x="2051.75"
+   y="7690.9565"
+   width="6265"
+   height="2210"
+   id="rect1257"
+   style="opacity:0.98" /><path
+   fill="#e6e6e6"
+   stroke="none"
+   d="m 2053.7501,7692.9564 h 2310.0003 v 735 H 2053.7501 Z"
+   id="path1259"
+   style="opacity:0.98" /><text
+   class="TextShape"
+   id="text1267"
+   style="opacity:0.98"
+   x="-7850.2466"
+   y="14.956384"><tspan
+     class="TextParagraph"
+     font-family="'Times New Roman', serif"
+     font-size="423px"
+     font-weight="400"
+     id="tspan1265"><tspan
+       class="TextPosition"
+       x="2561.7502"
+       y="8199.9561"
+       id="tspan1263"><tspan
+         fill="#000000"
+         stroke="none"
+         id="tspan1261">commit</tspan></tspan></tspan></text><path
+   fill="#e6e6e6"
+   stroke="none"
+   d="m 4363.7504,7692.9564 h 3949.9998 v 735 H 4363.7504 Z"
+   id="path1269"
+   style="opacity:0.98" /><text
+   class="TextShape"
+   id="text1275"
+   style="white-space:pre;inline-size:1915.02;display:inline;opacity:0.98"
+   transform="translate(5516.5022,7828.9532)"
+   xml:space="preserve"><tspan
+     x="0"
+     y="375.46362"
+     id="tspan4411"><tspan
+       style="font-size:423px;font-family:'Times New Roman', serif"
+       id="tspan4409">389654</tspan></tspan></text><path
+   fill="#e6e6e6"
+   stroke="none"
+   d="m 2053.7501,8427.9564 h 2310.0003 v 735 H 2053.7501 Z"
+   id="path1277"
+   style="opacity:0.98" /><text
+   class="TextShape"
+   id="text1285"
+   style="opacity:0.98"
+   x="-7850.2466"
+   y="14.956384"><tspan
+     class="TextParagraph"
+     font-family="'Times New Roman', serif"
+     font-size="423px"
+     font-weight="400"
+     id="tspan1283"><tspan
+       class="TextPosition"
+       x="2857.75"
+       y="8934.9561"
+       id="tspan1281"><tspan
+         fill="#000000"
+         stroke="none"
+         id="tspan1279">date</tspan></tspan></tspan></text><path
+   fill="#e6e6e6"
+   stroke="none"
+   d="m 4363.7504,8427.9564 h 3949.9998 v 735 H 4363.7504 Z"
+   id="path1287"
+   style="opacity:0.98" /><text
+   class="TextShape"
+   id="text1295"
+   style="opacity:0.98"
+   x="-7850.2466"
+   y="14.956384"><tspan
+     class="TextParagraph"
+     font-family="'Times New Roman', serif"
+     font-size="423px"
+     font-weight="400"
+     id="tspan1293"><tspan
+       class="TextPosition"
+       x="4816.75"
+       y="8934.9561"
+       id="tspan1291"><tspan
+         fill="#000000"
+         stroke="none"
+         id="tspan1289">20:11 20-12-2022</tspan></tspan></tspan></text><path
+   fill="#e6e6e6"
+   stroke="none"
+   d="m 2053.7501,9162.9564 h 2310.0003 v 735 H 2053.7501 Z"
+   id="path1297"
+   style="opacity:0.98" /><text
+   class="TextShape"
+   id="text1305"
+   style="opacity:0.98"
+   x="-7850.2466"
+   y="14.956384"><tspan
+     class="TextParagraph"
+     font-family="'Times New Roman', serif"
+     font-size="423px"
+     font-weight="400"
+     id="tspan1303"><tspan
+       class="TextPosition"
+       x="2493.7502"
+       y="9669.9561"
+       id="tspan1301"><tspan
+         fill="#000000"
+         stroke="none"
+         id="tspan1299">message</tspan></tspan></tspan></text><path
+   fill="#e6e6e6"
+   stroke="none"
+   d="m 4363.7504,9162.9564 h 3949.9998 v 735 H 4363.7504 Z"
+   id="path1307"
+   style="opacity:0.98" /><text
+   class="TextShape"
+   id="text1315"
+   y="9674.416"
+   x="5413.7471"
+   style="opacity:0.98"><tspan
+     class="TextParagraph"
+     font-family="'Times New Roman', serif"
+     font-size="423px"
+     font-weight="400"
+     id="tspan1313">Another Idea</tspan></text><path
+   fill="none"
+   stroke="#ffffff"
+   stroke-width="20"
+   stroke-linejoin="round"
+   d="M 2043.7501,7692.9564 H 8323.7502"
+   id="path1317"
+   style="opacity:0.98" /><path
+   fill="none"
+   stroke="#ffffff"
+   stroke-width="20"
+   stroke-linejoin="round"
+   d="m 2053.7501,7682.9564 v 2225"
+   id="path1319"
+   style="opacity:0.98" /><path
+   fill="none"
+   stroke="#ffffff"
+   stroke-width="20"
+   stroke-linejoin="round"
+   d="m 4363.7504,7682.9564 v 2225"
+   id="path1321"
+   style="opacity:0.98" /><path
+   fill="none"
+   stroke="#ffffff"
+   stroke-width="20"
+   stroke-linejoin="round"
+   d="M 2043.7501,8427.9564 H 8323.7502"
+   id="path1325"
+   style="opacity:0.98" /><path
+   fill="none"
+   stroke="#ffffff"
+   stroke-width="20"
+   stroke-linejoin="round"
+   d="M 2043.7501,9162.9564 H 8323.7502"
+   id="path1327"
+   style="opacity:0.98" /><path
+   fill="none"
+   stroke="#ffffff"
+   stroke-width="20"
+   stroke-linejoin="round"
+   d="M 2043.7501,9897.9564 H 8323.7502"
+   id="path1329"
+   style="opacity:0.98" /><g
+   transform="translate(-7327.7496,14.956384)"
+   style="opacity:0.98"
+   id="g1337">
+        <rect
+   class="BoundingBox"
+   stroke="none"
+   fill="none"
+   x="12281"
+   y="9786"
+   width="461"
+   height="2848"
+   id="rect1331" />
+        
+        <g
+   id="g1549"
+   transform="rotate(-41.988219,13511.386,7760.6281)"><path
+     fill="none"
+     stroke="#3465a4"
+     stroke-width="139.388"
+     stroke-linejoin="round"
+     d="m 12511,9839 v 3693.501"
+     id="path1333" /><path
+     fill="#3465a4"
+     stroke="none"
+     d="m 12511,14220.501 230,-688 h -459 z"
+     id="path1335" /></g>
+       </g></svg>
